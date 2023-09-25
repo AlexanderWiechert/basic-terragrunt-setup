@@ -22,3 +22,11 @@ In der jeweiligen `terragrunt.hcl` Datei muss folgendes ein Profil für das S3 B
 Typischer Einstieg in eine "Terraform mit Terragrunt" Projekt ist die **stage/terragrunt.hcl** Datei.
 Dort können die Backends, dynamisch konfigurierbare Authentication Provider und Merge Anweisungen für die 
 Yaml Dateien und Extra Argumenten angegeben werden.
+
+# Alexander Wiechert // Elastic2ls
+
+[Website](https://www.elastic2ls.com/)
+
+[Contact](info@elastic2ls.com)
+
+[License](https://github.com/AlexanderWiechert/.github/blob/main/LICENSE)
