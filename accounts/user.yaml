@@ -1,0 +1,7 @@
+---
+## Defines local dependent variables, for example credentials and authentication settings
+aws:
+  profile_accounts:
+    # AWS Profile (as named in local ~/.aws/config) mapping to environment (as named in ./accounts/$ACCOUNT/settings.yaml)
+    dev: "elastic2ls-dev"
+    prod: "elastic2ls-prod"

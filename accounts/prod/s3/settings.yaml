@@ -1,0 +1,5 @@
+project_name: "elastic2ls_shared"
+
+aws:
+  - accounts: "elastic2ls-infra"
+    id: "YOURACCOUNTID"

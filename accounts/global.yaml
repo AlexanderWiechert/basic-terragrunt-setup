@@ -1,0 +1,6 @@
+---
+## Defines global variables, which are the same in ALL accounts
+
+# AWS Region
+aws_region: eu-central-1
+

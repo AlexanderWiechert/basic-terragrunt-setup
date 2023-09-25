@@ -1,0 +1,5 @@
+**.idea
+**backend.tf
+**provider-auth.tf
+**terragrunt-debug.tfvars.json
+**.terragrunt-cache
